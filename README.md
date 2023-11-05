@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nicole Tang 👋
 
 <!--
 **nicoletangsy/nicoletangsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on responsive web applications using React.js, Next.js and TypeScript
+- 👀 I’m interested in Rhythm Games and Music
+- 📫 Reach me: nicoletangsy@gmail.com for any enquiries or collabs
